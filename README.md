@@ -3,33 +3,17 @@
 Hello there, I'm Davide 👋
 </h1> 
 
-I'm a web developer based in Italy. 
-I usually work as a frontend dev, but I can pull my weight as a full stack.
-
-Feel free to contact me by [email](mailto:dadefrancescon@gmail.com)!
+I WAS a web developer based in Italy. 
+Now i'm tired of AI developing so I'm getting my aerospace eng degree.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Fav Tech👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know(Knew)</h2></summary>
   </ul>
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,discord,docker,express,html,ts,nodejs,react,tailwind&perline=3" />
+    <img src="https://skillicons.dev/icons?i=typst,git,gcp,css,discord,docker,express,firebase,github,js,ts,md,materialui,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,&perline=6" />
   </a>
 </div>
 </div>
-<!--
-**davfrance/davfrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
