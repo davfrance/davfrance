@@ -13,7 +13,7 @@ Now i'm tired of AI developing so I'm getting my aerospace eng degree.
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,git,gcp,css,discord,docker,express,firebase,github,js,ts,md,materialui,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=latex,git,gcp,css,docker,express,firebase,github,js,ts,md,materialui,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,jest&perline=7" />
   </a>
 </div>
 </div>
